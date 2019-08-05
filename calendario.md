@@ -15,26 +15,24 @@
 | 11 | 09/09/19 | Postmortem Proyecto 1 / Especificación Proyecto 2      |
 | 12 | 12/09/19 | Box 2D                                                 |
 |    | 16/09/19 | ASUETO                                                 |
-| 13 | 19/09/19 | Práctica 3: box 2D / Concepto inicial proyecto 2       |
-| 14 | 23/09/19 | Box 2D                                                 |
-| 15 | 26/09/19 | Mapas de Bits                                          |
-| 16 | 30/09/19 | Práctica 4: box 2D / Límite cambios Proyecto 2         |
-| 17 | 03/10/19 | Recursividad / Entrega Proyecto 2                      |
-| 18 | 07/10/19 | postmortem Proyecto 2 / OOP avanzado                   |
-| 19 | 10/10/19 | OOP avanzado / especificación Proyecto 3               |
-| 20 | 14/10/19 | práctica 5:  geometría / Concepto Inicial Proyecto 3   |
-| 21 | 17/10/19 | OOP Avanzado                                           |
-| 22 | 21/10/19 | práctica 6: geometría / Límite cambios proyecto 3      |
-| 23 | 24/10/19 | Video / Entrega Proyecto 3 / especificación Proyecto 4 |
-| 24 | 28/10/19 | Postmortem Proyecto 3 / OpenCV                         |
-| 25 | 31/10/19 | practica 7: video / Concepto inicial proyecto 4        |
-| 26 | 04/11/19 | OpenCV                                                 |
-| 27 | 07/11/19 | práctica 8: OpenCV / Límite cambios Proyecto 4         |
-| 28 | 11/11/19 | 3D                                                     |
-| 29 | 14/11/19 | p5.js/ Entrega proyecto 4 / especificación Proyecto 5  |
+| 13 | 19/09/19 | Práctica 3 / Concepto inicial proyecto 2               |
+| 14 | 23/09/19 | Mapas de Bits                                          |
+| 15 | 26/09/19 | Práctica 4 / Límite cambios Proyecto 2                 |
+| 16 | 30/09/19 | Recursividad / Entrega Proyecto 2                      |
+| 17 | 03/10/19 | postmortem Proyecto 2 / OOP avanzado                   |
+| 18 | 07/10/19 | OOP avanzado / especificación Proyecto 3               |
+| 19 | 10/10/19 | práctica 5  / Concepto Inicial Proyecto 3              |
+| 20 | 14/10/19 | práctica 6 / Límite cambios proyecto 3                 |
+| 21 | 17/10/19 | Video / Entrega Proyecto 3 / especificación Proyecto 4 |
+| 22 | 21/10/19 | Postmortem Proyecto 3 / OpenCV                         |
+| 23 | 24/10/19 | practica 7 / Concepto inicial proyecto 4               |
+| 24 | 28/10/19 | OpenCV                                                 |
+| 25 | 31/10/19 | práctica 8 / Límite cambios Proyecto 4                 |
+| 26 | 04/11/19 | 3D                                                     |
+| 27 | 07/11/19 | p5.js/ Entrega proyecto 4 / especificación Proyecto 5  |
+| 28 | 11/11/19 | Postmortem proyecto 4                                  |
+| 29 | 14/11/19 | práctica 9 / Concepto inicial Proyecto 5               |
 |    | 18/11/19 | ASUETO                                                 |
-| 30 | 21/11/19 | Postmortem proyecto 4                                  |
-| 31 | 25/11/19 | práctica 9: p5.js / Concepto inicial Proyecto 5        |
-| 32 | 28/11/19 | Unity                                                  |
-| 33 | 02/12/19 | Límite cambios Proyecto 5                              |
-| 34 | 05/12/19 | Entrega y presentación de proyecto 5                   |
+| 30 | 21/11/19 | Unity                                                  |
+| 31 | 25/11/19 | Límite cambios Proyecto 5                              |
+| 32 | 28/11/19 | Entrega y presentación de proyecto 5                   |
