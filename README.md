@@ -1,5 +1,5 @@
 # Programación Orientada a Objetos
-## Agosto – Diciembre 2018
+## Agosto – Diciembre 2019
 ## Licenciatura en Artes Digitales
 ## Universidad de Guanajuato
 ## Mtro. Benjamín R. Moreno Ortiz
