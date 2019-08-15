@@ -9,11 +9,11 @@ En este proyecto debes desarrollar un juego de memorama, bajo las siguientes esp
 -	La pantalla de instrucciones debe contar con las instucciones para operar el juego, las reglas básicas,  una explicación de la naturaleza temática del juego e instrucciones claras sobre como empezar a jugar.
 - La pantalla de juego implementa la siguiente mecánica.
   - Al principio de la partida, los 14 pares de cartas (28 cartas totales) aparecen boca abajo y ordenadas en forma aleatoria. 
-  - Hay dos jugadores, que participan alternando turnos
+  - Hay dos jugadores que participan alternando turnos
   - Al inicio de su turno, el jugador elige una primera carta y luego otra, Al momento de elegir las cartas, estas se voltean, revelando su diseño individual. Si las cartas coinciden, el jugador gana un punto y tiene derecho de elegir otras dos cartas. Si las cartas no coinciden, son nuevamente volteadas y pasa el turno al siguiente jugador.
   - Cuando no quedan cartas por revelar, el juego termina, y se pasa a la pantalla de conclusión. 
 - 	La pantalla de conclusión debe indicar el jugador que ganó o empate, en caso de que esto ocurra,  así como instrucciones para volver a iniciar el juego
-5)	Evita bugs comunes como que los dos jugadores puedan elegir al mismo tiempo o que al iniciar de nuevo la partida las cartas no  aparezcan voltedas o aparezcan en el mismo lugar. 
+5)	Evita bugs comunes como que los dos jugadores puedan elegir al mismo tiempo, que no haya una pausa que permita ver ambas cartas o que al iniciar de nuevo la partida las cartas no  aparezcan voltedas o aparezcan en el mismo lugar. 
 6)	La entrega ÚNICAMENTE ES VALIDA mediante el sistema de envío de tareas: https://forms.gle/QDdda9Tjb7tSzte96
 
 ## Etapa 1.
