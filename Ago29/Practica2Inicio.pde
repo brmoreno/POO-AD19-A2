@@ -21,8 +21,8 @@ class Particula{
     c = color(255,0,0);
   }
   
-  void setComportamiento( int c_){
-    comportamiento = c_;
+  void setComportamiento(){
+   //recibe un dato que cambia el comportamiento
   }
   
   void movimiento(){
