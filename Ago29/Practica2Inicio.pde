@@ -4,21 +4,21 @@ class Particula{
   color c;
   int comportamiento =1;
   Particula(float x_, float y_, float v_, float a_, int t_, color c_){
-    x = x_;
-    y = y_;
-    v = v_;
-    a = a_;
-    t = t_;
-    c = c_;
+    this.x = x_;
+    this.y = y_;
+    this.v = v_;
+    this.a = a_;
+    this.t = t_;
+    this.c = c_;
   }
   
   Particula(){
-    x = width/2;
-    y = height/2;
-    v= 1;
-    a= 0;
-    t = 10;
-    c = color(255,0,0);
+    this.x = width/2;
+    this.y = height/2;
+    this.v= 1;
+    this.a= 0;
+    this.t = 10;
+    this.c = color(255,0,0);
   }
   
   void setComportamiento(){
@@ -31,24 +31,24 @@ class Particula{
         //sin movimiento
       break;
       case 1:
-        movimientoLineal();
+        this.movimientoLineal();
       break;
       case 2:
-        movimientoEnEspiral();
+        this.movimientoEnEspiral();
       break;
       case 3:
-        movimientoAleatorio();
+        this.movimientoAleatorio();
       break;
       case 4:
-        movimientoCaotico();
+        this.movimientoCaotico();
       break;
     }
     //la partícula debe permanecer en pantalla
   }
   
   void movimientoLineal(){
-    x+= cos(a)*v;
-    y+= sin(a)*v;
+    this.x+= cos(this.a)*this.v;
+    this.y+= sin(this.a)*this.v;
   }
   
   void movimientoEnEspiral(){
@@ -66,7 +66,7 @@ class Particula{
   void display(){
     noStroke();
     fill(c);
-    ellipse(x,y,t,t);
+    ellipse(this.x,this.y,this.t,this.t);
   }
 }
 
