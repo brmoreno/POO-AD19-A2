@@ -17,7 +17,7 @@ class Particula{
     y = height/2;
     v= 1;
     a= 0;
-    t = 25;
+    t = 10;
     c = color(255,0,0);
   }
   
