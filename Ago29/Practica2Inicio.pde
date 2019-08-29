@@ -43,6 +43,7 @@ class Particula{
         movimientoCaotico();
       break;
     }
+    //la partícula debe permanecer en pantalla
   }
   
   void movimientoLineal(){
