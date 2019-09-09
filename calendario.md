@@ -12,14 +12,14 @@
 | 8  | 29/08/19 | Práctica 2 / Límite cambios Proyecto 1                 |
 | 9  | 02/09/19 | Texto y sonido                                         |
 | 10 | 05/09/19 | Intro a box 2D / Entrega Proyecto 1                    |
-| 11 | 09/09/19 | Postmortem Proyecto 1 / Especificación Proyecto 2      |
-| 12 | 12/09/19 | Box 2D                                                 |
+| 11 | 09/09/19 | Postmortem Proyecto 1                                  |
+| 12 | 12/09/19 | Box 2D  / Especificación Proyecto 2                    |
 |    | 16/09/19 | ASUETO                                                 |
 | 13 | 19/09/19 | Práctica 3 / Concepto inicial proyecto 2               |
 | 14 | 23/09/19 | Mapas de Bits                                          |
 | 15 | 26/09/19 | Práctica 4 / Límite cambios Proyecto 2                 |
-| 16 | 30/09/19 | Recursividad / Entrega Proyecto 2                      |
-| 17 | 03/10/19 | postmortem Proyecto 2 / OOP avanzado                   |
+| 16 | 30/09/19 | Box 2D                                                 |
+| 17 | 03/10/19 | OOP avanzado /Entrega Proyecto 2                       |
 | 18 | 07/10/19 | OOP avanzado / especificación Proyecto 3               |
 | 19 | 10/10/19 | práctica 5  / Concepto Inicial Proyecto 3              |
 | 20 | 14/10/19 | práctica 6 / Límite cambios proyecto 3                 |
