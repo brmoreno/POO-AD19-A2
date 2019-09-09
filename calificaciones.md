@@ -36,8 +36,10 @@
 	
 (-4,0) Problemas con la integración de archivos
 	
-(-5, 0) Uso de POO en la estructura y funcionalidad
+(-5, 1) Uso de POO en la estructura y funcionalidad
 	
+(-3.0) Fuera de especificación
+
 (-3,0) Problemas de diseño
 	
 (0,1) complejidad adicional
