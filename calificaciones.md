@@ -1,4 +1,4 @@
-# Calificaciones
+# Calificaciones al 9 de Septiembre de 2019
 
 | NUA    | Falta 1  | Falta 2  | Falta 3  | Falta 4 | Falta 5 | Falta 6 | P1                 |
 |--------|----------|----------|----------|---------|---------|---------|--------------------|
