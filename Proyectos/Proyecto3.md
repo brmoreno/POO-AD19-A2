@@ -11,6 +11,7 @@ Debes desarrollar un proyecto de dibujo generativo en processing utilizando las 
   - El usuario puede decidir agregar o eliminar agentes. 
 - En la pantalla de fin se presenta el resultado final de la obra, se permite guardar el resultado en formato de imagen y se presentan instrucciones para volver a iniciar.
 3. En tu codigo sólo puedes hacer uso de las funciones random() y/o noise() en 3 ocasiones.
+4. La entrega ÚNICAMENTE ES VALIDA mediante el sistema de envío de tareas: https://forms.gle/HkQZgVRNcUqaSuzK8
 
 # Etapa 1.
 Genera la especificación de tu proyecto. En UNA hoja blanca tamaño carta incluye EXPLICITAMENTE el nombre de tu proyecto,  bocetos de su contenido, una explicación breve sobre lo que vas a hacer. Describe explícitamente la forma en que cada agente se mueve y dibuja. Utiliza ambos lados de la hoja. No agregues portada y no olvides incluir tu nombre, NUA y el grupo al que perteneces en el encabezado. Se entrega al inicio de la clase del 10 de Octubre de 2019. La entrega es requisito para evaluar y sin entrega no hay calificación.  3/10 puntos. Parámetros: creatividad, claridad, detalle. 
@@ -18,6 +19,7 @@ Genera la especificación de tu proyecto. En UNA hoja blanca tamaño carta inclu
 
 # Etapa2: 
 Envía tu proyecto desde  https://forms.gle/HkQZgVRNcUqaSuzK8
+
 No olvides incluir tu nombre completo, NUA y grupo, así como la liga al repositorio de GitHub donde se pueda acceder a tu proyecto. Tu proyecto debe estar en un repositorio individual, bien estructurado, incluir todos los archivos necesarios para su ejecución y estar público. Recuerda que si no compila o tiene algún error, la calificación es 0. 
 El límite para entregar es el 17 de Octubre de 2019 a las 12:00hrs.  El sistema registra la hora y fecha de entrega, así que toma tus precauciones y envíalo a tiempo. Por cada minuto de retraso tu calificación será penalizada con una décima menos (-0.1/10) NO HAY ENTREGAS TARDIAS NI MECANISMOS PARALELOS DE ENTREGA POR NINGUNA CAUSA.. Como mecanismo de respaldo, toma una captura de pantalla al mensaje de respuesta que te da el sistema de envío. 
 8/10 puntos. Parámetros: diseño, nivel de representación, complejidad, cercanía a la especificación.
