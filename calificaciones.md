@@ -12,3 +12,20 @@
 | 415158 | 28/08/19 |          |          |         |         |         | 7   | 9   |    |    |    |
 | 782261 |          |          |          |         |         |         | 9   | 10  |    |    |    |
 | 168831 | 05/08/19 | 19/08/19 | 02/09/19 |         |         |         | 0   | 0   |    |    |    |
+
+# Rúbrica p2
+
+ (0,3) especificación
+
+ (0,8) distancia del proyecto respecto a especificación
+
+ (0,-2) diseño de clases
+
+ (0,-1) estructura de archivos
+
+ (0, -4) bugs
+
+ (-1,1) diseño de interfaz
+
+ (0, 1) diseño visual
+
