@@ -7,9 +7,10 @@ Debes desarrollar un proyecto de dibujo generativo en processing utilizando las 
 - En la pantalla de instrucciones se presenta la forma básica con la cual se opera tu programa
 - En la pantalla de dibujo una serie de agentes diseñados por ti, interactúan para generar una representación visual. En el momento en que el usuario lo decida, se pasa a la pantalla de fin.
   - Los Agentes son 4 clases de objetos individuales, que generan la representación visual.
-  - Para cada agente es necesario que especifiques la forma en la que dibuja (i.e. el rastro geométrico que deja), se desplaza, decide los colores que utiliza y resuelve las posibles colisiones (con otros objetos, o con los límites de la pantalla. Estos atributos deben ser significativamente diferentes para cada clase.
+  - Para cada agente es necesario que especifiques la forma en la que dibuja (i.e. el rastro geométrico que deja), se desplaza, decide los colores que utiliza y resuelve las posibles colisiones (con otros objetos, o con los límites de la pantalla. Estas características deben ser significativamente diferentes para cada clase.
   - El usuario puede decidir agregar o eliminar agentes. 
 - En la pantalla de fin se presenta el resultado final de la obra, se permite guardar el resultado en formato de imagen y se presentan instrucciones para volver a iniciar.
+3. En tu codigo sólo puedes hacer uso de las funciones random() y/o noise() en 3 ocasiones.
 
 # Etapa 1.
 Genera la especificación de tu proyecto. En UNA hoja blanca tamaño carta incluye EXPLICITAMENTE el nombre de tu proyecto,  bocetos de su contenido, una explicación breve sobre lo que vas a hacer. Describe explícitamente la forma en que cada agente se mueve y dibuja. Utiliza ambos lados de la hoja. No agregues portada y no olvides incluir tu nombre, NUA y el grupo al que perteneces en el encabezado. Se entrega al inicio de la clase del 10 de Octubre de 2019. La entrega es requisito para evaluar y sin entrega no hay calificación.  3/10 puntos. Parámetros: creatividad, claridad, detalle. 
