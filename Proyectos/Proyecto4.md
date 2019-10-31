@@ -12,5 +12,8 @@ Genera la especificación de tu proyecto. En UNA hoja blanca tamaño carta entre
 Envía tu proyecto desde https://forms.gle/HkQZgVRNcUqaSuzK8
 
 No olvides incluir tu nombre completo, NUA y grupo, así como la liga al repositorio de GitHub donde se pueda acceder a tu proyecto. Tu proyecto debe estar en un repositorio individual, bien estructurado, incluir todos los archivos necesarios para su ejecución y estar público. Recuerda que si no compila o tiene algún error, la calificación es 0. 
-El límite para entregar es el 28 de Noviembre de 2019 a las 12:00 horas.  El sistema registra la hora y fecha de entrega, así que toma tus precauciones y envíalo a tiempo. Por cada minuto de retraso tu calificación será penalizada con una décima menos (-0.1/10)  NO HAY ENTREGAS TARDIAS NI MECANISMOS PARALELOS DE ENTREGA POR NINGUNA CAUSA. Como mecanismo de respaldo, toma una captura de pantalla al mensaje de respuesta que te da el sistema de envío. Adicionalmente debes presentar el proyecto frente al grupo.
+El límite para entregar es el 28 de Noviembre de 2019 a las 12:00 horas.  El sistema registra la hora y fecha de entrega, así que toma tus precauciones y envíalo a tiempo. Por cada minuto de retraso tu calificación será penalizada con una décima menos (-0.1/10)  NO HAY ENTREGAS TARDIAS NI MECANISMOS PARALELOS DE ENTREGA POR NINGUNA CAUSA. Como mecanismo de respaldo, toma una captura de pantalla al mensaje de respuesta que te da el sistema de envío. 
+
+# Adicionalmente debes presentar el proyecto frente al grupo.
+
 8/10 puntos. Parámetros: diseño, nivel de representación, complejidad, cercanía a la especificación.
